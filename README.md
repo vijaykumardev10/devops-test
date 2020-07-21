@@ -18,7 +18,7 @@ recommend creating a free tier account so you don't incur any costs).
  ## Context	
 We are testing your ability to implement modern automated infrastructure, as well as general knowledge of system administration. In your solution you should emphasize readability, maintainability and DevOps methodologies.	
 
- ## Submit your solution	
+ ## Submit your solution	Now
 Create a public Github repository and push your solution in it. Commit often - we would rather see a history of trial and error than a single monolithic push. When you're finished, send us the URL to the repository.	
 
  ## Running this web application	
